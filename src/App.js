@@ -12,6 +12,7 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload. </p>
          <p> <u>Hello <b><i>Gourav</i> & Anushree</b></u>
           </p>
+          <a href="http://www.google.com">Google Link</a>
           <a
             className="App-link"
             href="https://reactjs.org"
